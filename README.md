@@ -1,2 +1,1 @@
-i
-Edited by A
+Edited by A and B (Conflict Resolved)
